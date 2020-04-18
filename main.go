@@ -10,8 +10,7 @@ import (
 )
 
 const (
-	kibanaConfigFile = "./config/kibana.json"
-	logPath          = "./logs/go.log"
+	logPath = "./logs/go.log"
 )
 
 func main() {
