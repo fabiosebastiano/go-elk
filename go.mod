@@ -1,4 +1,4 @@
-module github.com/pcherednichenko/go-elastic-example
+module gitlab.com/preslavmihaylov/go-elk-exercise
 
 go 1.14
 
