@@ -1,1 +1,90 @@
 {"level":"error","ts":1587194922.2177641,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 1","stacktrace":"main.main\n\t/Users/pmihaylov/programming/repos/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/Cellar/go/1.14/libexec/src/runtime/proc.go:203"}
+{"level":"error","ts":1603278600.9374185,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 1","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278603.9437149,"caller":"go-elk-exercise/main.go:31","msg":"test log: 2"}
+{"level":"info","ts":1603278606.9262733,"caller":"go-elk-exercise/main.go:31","msg":"test log: 3"}
+{"level":"info","ts":1603278609.9377887,"caller":"go-elk-exercise/main.go:31","msg":"test log: 4"}
+{"level":"error","ts":1603278612.9406855,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 5","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278615.9460006,"caller":"go-elk-exercise/main.go:31","msg":"test log: 6"}
+{"level":"info","ts":1603278618.9497094,"caller":"go-elk-exercise/main.go:31","msg":"test log: 7"}
+{"level":"info","ts":1603278621.9513936,"caller":"go-elk-exercise/main.go:31","msg":"test log: 8"}
+{"level":"info","ts":1603278624.9528174,"caller":"go-elk-exercise/main.go:31","msg":"test log: 9"}
+{"level":"info","ts":1603278627.9548726,"caller":"go-elk-exercise/main.go:31","msg":"test log: 10"}
+{"level":"info","ts":1603278630.956087,"caller":"go-elk-exercise/main.go:31","msg":"test log: 11"}
+{"level":"error","ts":1603278633.9577186,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 12","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278636.9374344,"caller":"go-elk-exercise/main.go:31","msg":"test log: 13"}
+{"level":"info","ts":1603278639.941954,"caller":"go-elk-exercise/main.go:31","msg":"test log: 14"}
+{"level":"info","ts":1603278642.9439552,"caller":"go-elk-exercise/main.go:31","msg":"test log: 15"}
+{"level":"info","ts":1603278645.946789,"caller":"go-elk-exercise/main.go:31","msg":"test log: 16"}
+{"level":"error","ts":1603278648.9489884,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 17","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278651.9504633,"caller":"go-elk-exercise/main.go:31","msg":"test log: 18"}
+{"level":"info","ts":1603278654.9521847,"caller":"go-elk-exercise/main.go:31","msg":"test log: 19"}
+{"level":"info","ts":1603278657.9552999,"caller":"go-elk-exercise/main.go:31","msg":"test log: 20"}
+{"level":"info","ts":1603278660.9566524,"caller":"go-elk-exercise/main.go:31","msg":"test log: 21"}
+{"level":"info","ts":1603278663.9587796,"caller":"go-elk-exercise/main.go:31","msg":"test log: 22"}
+{"level":"info","ts":1603278666.937705,"caller":"go-elk-exercise/main.go:31","msg":"test log: 23"}
+{"level":"info","ts":1603278669.9397364,"caller":"go-elk-exercise/main.go:31","msg":"test log: 24"}
+{"level":"info","ts":1603278672.942482,"caller":"go-elk-exercise/main.go:31","msg":"test log: 25"}
+{"level":"info","ts":1603278675.9459167,"caller":"go-elk-exercise/main.go:31","msg":"test log: 26"}
+{"level":"info","ts":1603278678.9486613,"caller":"go-elk-exercise/main.go:31","msg":"test log: 27"}
+{"level":"info","ts":1603278681.9503493,"caller":"go-elk-exercise/main.go:31","msg":"test log: 28"}
+{"level":"info","ts":1603278684.9530404,"caller":"go-elk-exercise/main.go:31","msg":"test log: 29"}
+{"level":"info","ts":1603278687.9556956,"caller":"go-elk-exercise/main.go:31","msg":"test log: 30"}
+{"level":"error","ts":1603278690.9605632,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 31","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278693.9641237,"caller":"go-elk-exercise/main.go:31","msg":"test log: 32"}
+{"level":"info","ts":1603278696.9433968,"caller":"go-elk-exercise/main.go:31","msg":"test log: 33"}
+{"level":"error","ts":1603278699.9450326,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 34","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278702.9469082,"caller":"go-elk-exercise/main.go:31","msg":"test log: 35"}
+{"level":"info","ts":1603278705.9494855,"caller":"go-elk-exercise/main.go:31","msg":"test log: 36"}
+{"level":"info","ts":1603278708.9517844,"caller":"go-elk-exercise/main.go:31","msg":"test log: 37"}
+{"level":"error","ts":1603278711.9553487,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 38","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278714.959141,"caller":"go-elk-exercise/main.go:31","msg":"test log: 39"}
+{"level":"info","ts":1603278717.9608812,"caller":"go-elk-exercise/main.go:31","msg":"test log: 40"}
+{"level":"info","ts":1603278720.964427,"caller":"go-elk-exercise/main.go:31","msg":"test log: 41"}
+{"level":"info","ts":1603278723.966202,"caller":"go-elk-exercise/main.go:31","msg":"test log: 42"}
+{"level":"info","ts":1603278726.9454305,"caller":"go-elk-exercise/main.go:31","msg":"test log: 43"}
+{"level":"info","ts":1603278729.947208,"caller":"go-elk-exercise/main.go:31","msg":"test log: 44"}
+{"level":"info","ts":1603278732.9506938,"caller":"go-elk-exercise/main.go:31","msg":"test log: 45"}
+{"level":"info","ts":1603278735.952634,"caller":"go-elk-exercise/main.go:31","msg":"test log: 46"}
+{"level":"info","ts":1603278738.9544654,"caller":"go-elk-exercise/main.go:31","msg":"test log: 47"}
+{"level":"info","ts":1603278741.9562628,"caller":"go-elk-exercise/main.go:31","msg":"test log: 48"}
+{"level":"info","ts":1603278744.9580472,"caller":"go-elk-exercise/main.go:31","msg":"test log: 49"}
+{"level":"info","ts":1603278747.9599872,"caller":"go-elk-exercise/main.go:31","msg":"test log: 50"}
+{"level":"info","ts":1603278750.96138,"caller":"go-elk-exercise/main.go:31","msg":"test log: 51"}
+{"level":"error","ts":1603278753.9630647,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 52","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278756.9419196,"caller":"go-elk-exercise/main.go:31","msg":"test log: 53"}
+{"level":"info","ts":1603278759.9435868,"caller":"go-elk-exercise/main.go:31","msg":"test log: 54"}
+{"level":"info","ts":1603278762.945065,"caller":"go-elk-exercise/main.go:31","msg":"test log: 55"}
+{"level":"info","ts":1603278765.9470038,"caller":"go-elk-exercise/main.go:31","msg":"test log: 56"}
+{"level":"info","ts":1603278768.9490068,"caller":"go-elk-exercise/main.go:31","msg":"test log: 57"}
+{"level":"info","ts":1603278771.950519,"caller":"go-elk-exercise/main.go:31","msg":"test log: 58"}
+{"level":"info","ts":1603278774.9519937,"caller":"go-elk-exercise/main.go:31","msg":"test log: 59"}
+{"level":"info","ts":1603278777.9537706,"caller":"go-elk-exercise/main.go:31","msg":"test log: 60"}
+{"level":"error","ts":1603278780.955442,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 61","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278783.957169,"caller":"go-elk-exercise/main.go:31","msg":"test log: 62"}
+{"level":"info","ts":1603278786.9361567,"caller":"go-elk-exercise/main.go:31","msg":"test log: 63"}
+{"level":"info","ts":1603278789.9389274,"caller":"go-elk-exercise/main.go:31","msg":"test log: 64"}
+{"level":"info","ts":1603278792.9408536,"caller":"go-elk-exercise/main.go:31","msg":"test log: 65"}
+{"level":"info","ts":1603278795.9426906,"caller":"go-elk-exercise/main.go:31","msg":"test log: 66"}
+{"level":"error","ts":1603278798.9447796,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 67","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278801.9485567,"caller":"go-elk-exercise/main.go:31","msg":"test log: 68"}
+{"level":"info","ts":1603278804.9503863,"caller":"go-elk-exercise/main.go:31","msg":"test log: 69"}
+{"level":"info","ts":1603278807.952114,"caller":"go-elk-exercise/main.go:31","msg":"test log: 70"}
+{"level":"info","ts":1603278810.953294,"caller":"go-elk-exercise/main.go:31","msg":"test log: 71"}
+{"level":"info","ts":1603278813.9545035,"caller":"go-elk-exercise/main.go:31","msg":"test log: 72"}
+{"level":"info","ts":1603278816.9377892,"caller":"go-elk-exercise/main.go:31","msg":"test log: 73"}
+{"level":"info","ts":1603278819.9401338,"caller":"go-elk-exercise/main.go:31","msg":"test log: 74"}
+{"level":"info","ts":1603278822.9423473,"caller":"go-elk-exercise/main.go:31","msg":"test log: 75"}
+{"level":"info","ts":1603278825.944305,"caller":"go-elk-exercise/main.go:31","msg":"test log: 76"}
+{"level":"info","ts":1603278828.9463983,"caller":"go-elk-exercise/main.go:31","msg":"test log: 77"}
+{"level":"info","ts":1603278831.9486442,"caller":"go-elk-exercise/main.go:31","msg":"test log: 78"}
+{"level":"info","ts":1603278834.9519682,"caller":"go-elk-exercise/main.go:31","msg":"test log: 79"}
+{"level":"info","ts":1603278837.9539587,"caller":"go-elk-exercise/main.go:31","msg":"test log: 80"}
+{"level":"info","ts":1603278840.9578252,"caller":"go-elk-exercise/main.go:31","msg":"test log: 81"}
+{"level":"info","ts":1603278843.9595768,"caller":"go-elk-exercise/main.go:31","msg":"test log: 82"}
+{"level":"info","ts":1603278846.9388657,"caller":"go-elk-exercise/main.go:31","msg":"test log: 83"}
+{"level":"info","ts":1603278849.9404025,"caller":"go-elk-exercise/main.go:31","msg":"test log: 84"}
+{"level":"error","ts":1603278852.9427881,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 85","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1603278855.948116,"caller":"go-elk-exercise/main.go:31","msg":"test log: 86"}
+{"level":"info","ts":1603278858.9518015,"caller":"go-elk-exercise/main.go:31","msg":"test log: 87"}
+{"level":"info","ts":1603278861.953348,"caller":"go-elk-exercise/main.go:31","msg":"test log: 88"}
+{"level":"error","ts":1603278864.9553564,"caller":"go-elk-exercise/main.go:29","msg":"test error","error":"error because test: 89","stacktrace":"main.main\n\t/go/src/gitlab.com/preslavmihaylov/go-elk-exercise/main.go:29\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
